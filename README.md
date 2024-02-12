@@ -4,7 +4,7 @@ This program generates the first 3 prime numbers after logging into GitHub.
 
 ## Installation
 1. Clone the repository to your local machine.
-2. Make sure you have Python installed.
+2. Make sure you have Csharp installed.
 3. Run the program using `C# vscode `.
 
 ## Usage
